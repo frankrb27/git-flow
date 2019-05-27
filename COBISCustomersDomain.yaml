@@ -3,7 +3,7 @@ openapi: 3.0.0
 info:
   description: 'This is the domain for definitions of COBIS Customer module. This is all about customers objects like, identification, natural and legal persons, catalogs, etc.'
   version: '1.0.0'
-  title: 'COBIS Customers Domain'
+  title: 'COBIS Customers Domain - Hotfix'
 
 components:
   schemas:
